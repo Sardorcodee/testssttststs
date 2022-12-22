@@ -10,11 +10,11 @@
   
 //   console.log(api);
 // })();
-(async function getAlbums() {
-  let apie = await fetch("https://jsonplaceholder.typicode.com/comments",
-  {
-    method:"POST",
-    body: JSON.stringify({title:"test", userId:3})
-  });
+// (async function getAlbums() {
+//   let apie = await fetch("https://jsonplaceholder.typicode.com/comments",
+//   {
+//     method:"POST",
+//     body: JSON.stringify({title:"test", userId:3})
+//   });
   
-})();
+// })();
