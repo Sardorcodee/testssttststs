@@ -1,0 +1,9 @@
+img{
+    width: 80px!important;
+    height: 75px!important;
+    background-color: darkgrey;
+    border-radius: 50%;
+}
+img:hover{
+    opacity: 0.4;
+}
